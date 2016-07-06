@@ -1,0 +1,14 @@
+layout_spectrum: 0.2047164784744382
+typography_spectrum: 0.0035553527995944023
+color:
+  brandStrength: 0.15834498382173479
+  lightness: 0.879373318515718
+  saturation: 0.9767295331694186
+  rhythmicContrast: 0.41495317057706416
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: DentBusters
